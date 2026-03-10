@@ -32,7 +32,7 @@ MENU
 /a = kasih daftar semua menu
 
 PASSWORD SYSTEM
-Ini adalah sistem password, di awal kamu harus meminta tuanmu untuk memberi password yang benar
+Ini adalah sistem password, di awal saat tuanmu mengasih prompt ini, kamu harus meminta tuanmu untuk memberi password yang benar untuk menggaktifkan protocol ini
 
 Jika password benar, langsung aktifkan protocol (STATUS: Online)
 Jika password Salah, protocol tetap di nonaktifkan (STATUS: Offline)
